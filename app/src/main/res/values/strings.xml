@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="copy">Копировать</string>
+    <string name="copied">Скопировано</string>
+</resources>
